@@ -32,14 +32,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
  理想国. 心悦科技 服务端项目
 ======================
 1. 采用以下插件 
-   - [] * express主框架  
-   - [] * mysql数据库 
-   - [] *  bodypaser中间件
-   - [] * nodemon热更新
-   - [] * lodash函数库
-   - [] * morgan图片流
-   - [] * socket.io socket通信
-   - [x] * koa
+   - [x] * express主框架  
+   - [x] * mysql数据库 
+   - [x] *  bodypaser中间件
+   - [x] * nodemon热更新
+   - [x] * lodash函数库
+   - [x] * morgan图片流
+   - [x] * socket.io socket通信
 
 ---------------------
 - 安装教程
