@@ -15,7 +15,7 @@
     "morgan": "^1.9.1",
     "nodemon": "^1.18.10",
     "serve-favicon": "^2.5.0",
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   },
   "devDependencies": {
     "body-parser": "^1.18.3",
